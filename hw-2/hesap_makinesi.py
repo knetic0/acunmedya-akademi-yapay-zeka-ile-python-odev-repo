@@ -13,8 +13,7 @@ def hesap_makinesi(num1:int, num2:int, operator:str):
         return result_str + str(num1 - num2)
     elif operator == "*":
         return result_str + str(num1 * num2)
-    else:
-        return result_str + str(num1 / num2)
+    return result_str + str(num1 / num2)
 
 num1 = int(input("Birinci sayıyı giriniz: "))
 num2 = int(input("İkinci sayıyı giriniz: "))
