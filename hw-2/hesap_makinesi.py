@@ -2,7 +2,7 @@ def hesap_makinesi(num1:int, num2:int, operator:str):
     if operator not in ["+","-","*","/"]:
         return "Geçersiz işlem."
     
-    if operator == "/" and num2==0:
+    if operator == "/" and num2 == 0:
         return "Bir sayı sıfıra bölünemez."
     
     result_str = f"{num1} {operator} {num2} = "
