@@ -1,5 +1,5 @@
+merhaba
 acunmedya
-ml
 yapayzeka
+ml
 veri
-deeplearning
