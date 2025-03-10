@@ -1,6 +1,1 @@
 mehmet
-solak
-odev 3
-acunmedya
-makine ogrenmesi
-yapay zeka
